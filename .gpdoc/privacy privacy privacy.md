@@ -1,4 +1,4 @@
-# The P Principle — *Privacy–Prediction-Performance*
+# The repo based P Principle — *Privacy–Prediction-Performance*
 
 **Full label:** **P3 Optimal-Intersection Principle (P3-OIP)**
 
